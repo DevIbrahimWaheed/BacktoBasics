@@ -1,0 +1,16 @@
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\obj\Debug\net5.0\Understanding_CSharp.csproj.AssemblyReference.cache
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\obj\Debug\net5.0\Understanding_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\obj\Debug\net5.0\Understanding_CSharp.AssemblyInfoInputs.cache
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\obj\Debug\net5.0\Understanding_CSharp.AssemblyInfo.cs
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\obj\Debug\net5.0\Understanding_CSharp.csproj.CoreCompileInputs.cache
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\bin\Debug\net5.0\Understanding_CSharp.exe
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\bin\Debug\net5.0\Understanding_CSharp.deps.json
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\bin\Debug\net5.0\Understanding_CSharp.runtimeconfig.json
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\bin\Debug\net5.0\Understanding_CSharp.runtimeconfig.dev.json
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\bin\Debug\net5.0\Understanding_CSharp.dll
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\bin\Debug\net5.0\ref\Understanding_CSharp.dll
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\bin\Debug\net5.0\Understanding_CSharp.pdb
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\obj\Debug\net5.0\Understanding_CSharp.dll
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\obj\Debug\net5.0\ref\Understanding_CSharp.dll
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\obj\Debug\net5.0\Understanding_CSharp.pdb
+E:\Work\Github\BacktoBasics\Understanding_C#\Singleton\obj\Debug\net5.0\Understanding_CSharp.genruntimeconfig.cache
